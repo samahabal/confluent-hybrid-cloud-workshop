@@ -16,11 +16,11 @@ Each workshop participant will work through a series of Labs to create the follo
 
 ## Prerequisites
 
-* macOS or Linux
-* Terraform 0.12.20 or later
-* Python + [Yaml](https://pyyaml.org/wiki/PyYAML)
-* A GCP/AWS/Azure account with the appropriate privileges
-* A Confluent Cloud Account
+* macOS (Open Terminal > Run command 'sw_vers') or Linux (Open Terminal > Run command 'cat /etc/os-release')
+* [Terraform](https://formulae.brew.sh/formula/terraform-docs#default) 0.12.20 or later  
+* [Python](https://docs.python-guide.org/starting/install3/osx/) + [Yaml](https://pyyaml.org/wiki/PyYAML)
+* A GCP/AWS/Azure account with the appropriate privileges (URL's to the accounts should help reducing time effort)
+* A Confluent Cloud Account (URL's to the accounts should help reducing time effort)
 * [MongoDB Realm CLI](https://docs.mongodb.com/realm/deploy/realm-cli-reference/#installation) (required if you use the MongoDB Atlas extension)
 
 ## Provisioning a Workshop
